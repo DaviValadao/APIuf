@@ -1,4 +1,4 @@
-import colecaoUF from "../dados/dados";
+import colecaoUF from "../dados/dados.js";
 
 ///restsorna toda coleção
 export const buscarUfs = () => {
